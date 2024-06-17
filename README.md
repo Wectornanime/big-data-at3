@@ -54,19 +54,19 @@ Para rodar a aplicação será necessário executar o container, execute o coman
 - Linux/Mac
 
 ```
-docker run -p 8888:8888 -v $(pwd):/app pyspark-jupyter
+docker run -p 8888:8888 -v $(pwd):/app pyspark-app
 ```
 
 - Windows(CMD)
 
 ```
-docker run -p 8888:8888 -v %cd%:/app pyspark-jupyter
+docker run -p 8888:8888 -v %cd%:/app pyspark-app
 ```
 
 - Windows(Powershell)
 
 ```
-docker run -p 8888:8888 -v ${PWD}:/app pyspark-jupyter
+docker run -p 8888:8888 -v ${PWD}:/app pyspark-app
 ```
 
 > Após executar o comando, você deve ver a saída indicando que o Jupyter Notebook foi iniciado. A saída incluirá algo como:
