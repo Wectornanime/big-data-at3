@@ -91,6 +91,11 @@ Você pode executar o Jupyter pelo VsCode
 
 Com o jupyter aberto, mude o kernel para o container docker
 
+## Desenvolvedores/Contribuintes :octocat:
+
+| [<img src="https://github.com/liad4ntas.png" width=115><br><sub>Anna Cecília Cintra</sub>](https://github.com/liad4ntas) | [<img src="https://github.com/camsste.png" width=115><br><sub>Camile Stefany</sub>](https://github.com/camsste) | [<img src="https://github.com/heldhma.png" width=115><br><sub>Heldhma Luiza</sub>](https://github.com/heldhma) | [<img src="https://github.com/heijsilva.png" width=115><br><sub>João Victor Oliveira</sub>](https://github.com/heijsilva) | [<img src="https://github.com/MariliaCarv.png" width=115><br><sub>/Marília Gabriela</sub>](https://github.com/MariliaCarv) | [<img src="https://github.com/Rogrinhu.png" width=115><br><sub>Thiago Costa</sub>](https://github.com/Rogrinhu) | [<img src="https://github.com/wectornanime.png" width=115><br><sub>Wectornanime Felipe</sub>](https://github.com/wectornanime) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+
 ## Licença ⚖️
 
 The [MIT License](./LICENSE) (MIT)
